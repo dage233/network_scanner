@@ -1,0 +1,9 @@
+{
+    "ssh": [
+        {
+            "name": "root",
+            "type": "RSAKey",
+            "file_path": "ssh_keys/ssh_key_1"
+        }
+    ]
+}
